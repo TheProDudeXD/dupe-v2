@@ -1,0 +1,2 @@
+_G.AuthKey = "0e26aff0-a6b5-4160-826f-79c7a1e0569b"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobIoxScripts/GUI/main/load.lua"))()
